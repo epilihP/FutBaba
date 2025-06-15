@@ -1,6 +1,8 @@
-namespace IPartidaRepository;
 using System;   
 using System.Collections.Generic;
+
+namespace IPartidaRepository;
+
 // Gestão de partidas
 public interface IPartidaRepository
     {

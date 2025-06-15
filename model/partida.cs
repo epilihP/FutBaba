@@ -1,7 +1,7 @@
-namespace Model.Partidas;
 using System;
 using System.Collections.Generic;
 
+namespace Model.Partidas;
 // Representa uma partida de um jogo específico
 public class Partida
 {

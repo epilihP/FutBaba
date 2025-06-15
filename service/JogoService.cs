@@ -1,7 +1,7 @@
-namespace Service.Jogo;
-
+using System.Collections.Generic;
 using System;
 
+namespace Service.Jogo;
 
 public class JogoService
 {

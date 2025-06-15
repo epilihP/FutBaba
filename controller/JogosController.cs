@@ -1,8 +1,9 @@
-namespace Controller.Jogos;
 using System;
 using System.Collections.Generic;
 using Model.Jogos;
 using Repository.Jogos;
+
+namespace Controller.Jogos;
 
 public class JogosController
 {

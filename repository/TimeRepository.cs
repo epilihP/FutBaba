@@ -1,10 +1,10 @@
-namespace Repository.Times;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using Model.Times;
 
+namespace Repository.Times;
 // Repositório para gerenciar os times, salvando e carregando em arquivo JSON
 public class TimeRepository
 {

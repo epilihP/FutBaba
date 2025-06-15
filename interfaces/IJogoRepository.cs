@@ -1,6 +1,8 @@
-namespace IJogoRepository;
 using System;
 using System.Collections.Generic;
+
+namespace IJogoRepository;
+
 //crud para jogos
 public interface IJogoRepository
     {

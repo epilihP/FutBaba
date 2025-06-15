@@ -1,8 +1,7 @@
-namespace Service.Interessados;
-
 using System;
 using System.Collections.Generic;
 
+namespace Service.Interessados;
 
 public class InteressadosService
 {

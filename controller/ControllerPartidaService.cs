@@ -1,9 +1,10 @@
-namespace Controller.PartidaService;
 using System;
 using System.Collections.Generic;
 using Service.Partida;
 using Model.Times;
 using Model.Jogadores;
+
+namespace Controller.PartidaService;
 
 public class PartidaServiceController
 {

@@ -1,6 +1,7 @@
-namespace IInteressadosRepository;
 using System;
 using System.Collections.Generic;
+
+namespace IInteressadosRepository;
 
 // Lista de interessados para o próximo jogo
 public interface IInteressadosRepository

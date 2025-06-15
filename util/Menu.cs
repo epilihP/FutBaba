@@ -1,4 +1,3 @@
-namespace Menu;
 using System;
 using Controller.Associados;
 using Controller.Jogos;
@@ -10,6 +9,8 @@ using Model.Jogos;
 using Model.Partidas;
 using Model.Times;
 using System.Collections.Generic;
+
+namespace Menu;
 
 public class Menu
 {

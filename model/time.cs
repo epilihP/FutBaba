@@ -1,7 +1,7 @@
-namespace Model.Times;
 using System;
 using System.Collections.Generic;
 
+namespace Model.Times;
 // Representa um time em uma partida
 public class Time
 {

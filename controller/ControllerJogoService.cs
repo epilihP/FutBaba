@@ -1,6 +1,8 @@
-namespace Controller.JogoService;
 using System;
 using Service.Jogo;
+
+namespace Controller.JogoService;
+
 
 public class JogoServiceController
 {

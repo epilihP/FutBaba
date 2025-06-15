@@ -1,7 +1,7 @@
-namespace Model.Jogos;
 using System;
 using System.Collections.Generic;
 
+namespace Model.Jogos;
 public class Jogo
 {
     public Guid Id { get; set; } // Identificador único

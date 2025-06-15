@@ -1,10 +1,11 @@
-namespace Repository.Partidas;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using Model.Partida;
 using IPartidaRepository;
+
+namespace Repository.Partidas;
 public class PartidaRepository : IPartidaRepository
 {
     private readonly string caminhoArquivo = "partidas.json"; // Caminho do arquivo JSON

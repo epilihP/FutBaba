@@ -1,11 +1,10 @@
-namespace Service.Partida;
-
 using System;
 using System.Collections.Generic;
 using Model.Times;
 using Model.Jogadores;
 using Model.Partidas;
 
+namespace Service.Partida;
 
 public class PartidaService
 {

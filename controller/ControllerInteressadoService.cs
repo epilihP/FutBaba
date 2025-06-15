@@ -1,7 +1,9 @@
-namespace Controller.InteressadosService;
 using System;
 using System.Collections.Generic;
 using Service.Interessados;
+
+namespace Controller.InteressadosService;
+
 
 public class InteressadosController
 {

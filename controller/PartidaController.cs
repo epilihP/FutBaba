@@ -1,9 +1,10 @@
-namespace Controller.Partidas;
 using System;
 using System.Collections.Generic;
 using Model.Partidas;
 using Repository.Partidas;
 using Model.Times;
+
+namespace Controller.Partidas;
 
 public class PartidaController
 {

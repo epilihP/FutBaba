@@ -1,6 +1,7 @@
-namespace IJogadorRepository;
 using System.Collections.Generic;
 using System;
+
+namespace IJogadorRepository;
 
 //para o crud do jogador
 public interface IJogadorRepository

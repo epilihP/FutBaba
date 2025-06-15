@@ -1,6 +1,8 @@
-namespace ITimeService;
 using System;
 using System.Collections.Generic;
+
+namespace ITimeService;
+
 
 // Gestão de times
 public interface ITimeService

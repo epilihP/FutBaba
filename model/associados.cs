@@ -1,7 +1,7 @@
-namespace Model.Jogadores;
 using System;
 using System.Collections.Generic;
 
+namespace Model.Jogadores;
 
 public class Jogador
 {

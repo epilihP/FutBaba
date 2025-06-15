@@ -1,10 +1,11 @@
-namespace Repository.Jogos;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using Model.Jogos;
 using IJogoRepository;
+
+namespace Repository.Jogos;
 public class JogoRepository : IJogoRepository
 {
     
