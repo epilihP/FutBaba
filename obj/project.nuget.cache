@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "nx1LjDnpfTY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Newtonsoft.Json (>= 13.0.1)' for 'net5.0'.",
+      "projectPath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "filePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 5.0.0)' for 'net5.0'.",
+      "projectPath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "filePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 5.0.0)' for 'net5.0'.",
+      "projectPath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "filePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 5.0.0)' for 'net5.0'.",
+      "projectPath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "filePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 5.0.17)' for 'net5.0'.",
+      "projectPath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "filePath": "C:\\Users\\Pass\\Desktop\\meu-projeto-csharp\\meu-projeto-csharp.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
